@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.env
+.DS_Store
+dashboard.tar.gz
+*.tar.gz
+*.zip
+/tmp/
+.pm2/
