@@ -30,7 +30,7 @@
 ## 🚀 Quick Install
 ```bash
 # Download installer
-wget https://github.com/YOUR_USERNAME/deployhub/releases/latest/download/deployhub-installer.tar.gz
+wget https://github.com/intermerda14-cloud/deployhub/releases/download/v1.0.0/deployhub-installer.tar.gz
 
 # Extract
 tar -xzf deployhub-installer.tar.gz
@@ -77,10 +77,6 @@ pm2 save
 - **Notifications:** Telegram Bot API
 - **Tunnel:** Cloudflare Tunnel
 
-## 📸 Screenshots
-
-Coming soon...
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -92,11 +88,6 @@ MIT License - feel free to use this project however you want!
 ## 🙏 Acknowledgments
 
 Built with ❤️ for developers who want full control over their deployments.
-
-## 📞 Support
-
-- GitHub Issues: Report bugs or request features
-- Documentation: Check the wiki for detailed guides
 
 ---
 
